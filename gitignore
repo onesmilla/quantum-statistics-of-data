@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Виртуальные окружения
+.venv/
+venv/
+env/
+
+# Сгенерированные скриптом результаты (создаются заново при запуске)
+figures/*.png
+!figures/.gitkeep
+
+# ОС / редакторы
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
