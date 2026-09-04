@@ -31,7 +31,7 @@ git clone https://github.com/onesmilla/quantum-statistics-of-data.git
 cd quantum-statistics-of-data
 pip install -r requirements.txt
 
-Tested with: pennylane==0.45.1, numpy>=1.24, matplotlib>=3.7, scikit-learn>=1.3.
+Tested with: pennylane==0.45.1, numpy>=1.24, matplotlib>=3.7, scikit-learn>=1.3
 
 Note on PennyLane versions: This code uses qml.gradients.quantum_fisher (modern path in PennyLane ≥0.40). If you use an older version, the import path may differ.
 
