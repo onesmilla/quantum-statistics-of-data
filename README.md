@@ -121,7 +121,7 @@ For a production pipeline you should:
 
 ## Companion article
 
-- **Habr (RU):** *Квантовая статистика данных: почему пора открыть Qiskit, а не ждать квантового компьютера* — [link TBD]
+- **Habr (RU):** *Квантовая статистика данных: почему пора открыть Qiskit, а не ждать квантового компьютера* — [[link TBD](https://habr.com/ru/articles/1072722/)]
 
 ---
 
